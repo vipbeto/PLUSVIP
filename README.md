@@ -19,9 +19,4 @@ Só joga na máquina e deixar instalar
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vipbeto/PRO/main/ssh-plus)
 
-
-
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vipbeto/PRO/main/script/64/Plus)
-
-
 ```
